@@ -11,5 +11,4 @@
 - Will the game be forced-multiplayer? And would there be a limit to the amount of players?
 - Medical system - How will healing/ treating a player work. What will certain effects do to  a player and how would it be shown in-game?
 - How sci-fi do we wanna go? Around our time or laser guns time?
-- Skill tree. yes or no? Not sure how this would work since repairing appliances would take real world knowledge and piloting the ship wouldn't change regardless of how well the player can turn. Only upgrades to the sub would do that.
- 
+- Skill tree. yes or no? Not sure how this would work since repairing appliances would take real world knowledge and piloting the ship wouldn't change regardless of how well the player can turn a submarine. Only upgrades to the sub would do that.
