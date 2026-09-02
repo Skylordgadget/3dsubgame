@@ -1,0 +1,15 @@
+- Weight system - Depending on what/ how much you're carrying affects speed and movement capabilities
+- Is hunger and thirst gonna be a thing? Leaning more towards survival or leave that out in favour of the player focusing on the core gameplay?
+- Multiple submarines or just one that the player can upgrade as the game progresses?
+- How in depth is the electrical and mechanical system going to be? One button press and a sliding bar or an in-depth system using real world methods?
+- Depending on what planet we set the game on. Will the gravity be earth-like or will we use 'gravity generators' for the sub and functional bases? Maybe abandoned bases will have the planets gravity until the player fixes the grav gen
+- Have another look if we wanna do a water planet or a liquid methane one. Could be cool to have a hole in the sub and gas starts leaking in freezing the player instead of drowning. Just realised, one spark would make the sub explode if full of gaseous methane.
+- Navigation could have either IRL screens or sci-fi hologram displays showing the player a 3d model of the submarine with blips to show enemies. Cameras around the sub to show outside
+- What would the story be? Why are the players being sent down into the dangerous waters?
+- Proximity chat - Voices would echo down corridors and muffled when masks or helmets are being used. Radios would also be implemented when far away. Would want the monsters to also use this system as it would be cool to hear the roars or damage to the ship in 3d space.
+- Will the game be forced-multiplayer? And would there be a limit to the amount of players?
+- Medical system - How will healing/ treating a player work. What will certain effects do to  a player and how would it be shown in-game?
+- How sci-fi do we wanna go? Around our time or laser guns time?
+- Skill tree. yes or no? Not sure how this would work since repairing appliances would take real world knowledge and piloting the ship wouldn't change regardless of how well the player can turn. Only upgrades to the sub would do that.
+- 
+ 
