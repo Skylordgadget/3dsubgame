@@ -5,5 +5,3 @@ Would probably be Europa but to not be as close to Barotrauma, would be better t
 Caves would most likely be made by hand which would allow for more control during level creation.
 
 Different size caves would allow only certain vehicles/ player though, limiting the resources they can use for various missions.
-
-changes
