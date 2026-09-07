@@ -12,4 +12,4 @@ Here will be a list of every room that would need to have a place in the sub and
 - Airlock
 - Ballast Tanks
 - Room to control exterior guns
-- 
+- Shuttle Bay? not sure if we want shuttles yet
